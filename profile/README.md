@@ -1,10 +1,10 @@
-# Introducion
+# Introduction
 
-This organization has been setup to provide a place for CPAN authors to collaborate more easily.
+This organization has been set up to provide a place for CPAN authors to collaborate more easily.
 
-Members of the organization may more easily give out permissions than they could normally do so under their personal github profile. All repositories here are public. 
+Members of the organization may more easily give out permissions than they could normally do under their personal GitHub profile. All repositories here are public. 
 
-Members who create or transfer in a repository will be the admin on that repository. Github will automatically redirect both fetch and http queries to your old repo location.
+Members who create or transfer in a repository will be the admin on that repository. GitHub will automatically redirect both fetch and HTTP queries to your old repo location.
 
 Enjoy!
 
